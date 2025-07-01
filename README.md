@@ -18,6 +18,6 @@ Com a pesquisa exploratória realizada, após executar os processos de limpeza d
 
 Não obstante foi necessário também identificar imóveis aptos para moradia, logo foram selecionados categorias de imóveis que se aplicam na lógica de moradia, isto é: Apartamentos, Casas e Hotéis.
 
-Com essa segmentação dos dados foi possível chegar no resultado abaixo, onde apresenta a localidade dos imóveis que pertencem à União aptos para Habitação de interesse social.
+Com essa segmentação dos dados foi possível chegar no resultado abaixo, onde apresenta a localidade dos imóveis que pertencem à União aptos para Habitação de Interesse Social.
 
 ![image](https://github.com/user-attachments/assets/cd4c1c17-0874-4dc6-849c-a6e236b9ae5e)
